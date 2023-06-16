@@ -1,24 +1,31 @@
-.container{
+.container{ 
+   
     proprieda : valor;
 
 }
 
 h1{ 
-    color: blue;
-    background-color: chocolate;
+    color: rgb(255, 255, 255);
+    background-color: rgb(210, 30, 30);
 }
 
-.links li {
+.links li { 
     
+
+    color: aliceblue;
+  background-color: rgb(255, 59, 59);
     propriedade : valor
 
 }
 
 .links li a {
-    
+    flex-direction: column;
+    justify-content:space-between;
+   
     propriedade : valor
 
 }
-.links li a:houver;{  propriedade : valor;
+.links li a:houver;
+{  propriedade : valor;
 
 }
