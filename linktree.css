@@ -3,9 +3,9 @@
 
 }
 
-h1 { 
-   
-    propriedade : valor
+h1{ 
+    color: blue;
+    background-color: chocolate;
 }
 
 .links li {
