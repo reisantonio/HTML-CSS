@@ -1,0 +1,26 @@
+body{
+
+    color: rgb(110, 6, 6);
+    background-color: rgb(110, 6, 6);
+}
+
+header{
+    color: rgb(253, 10, 10);
+    background-color: rgb(46, 39, 39);
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    
+    display: flex;
+    justify-content: end;
+
+}
+
+div a{ 
+
+    display: contents;
+    justify-content: space-between;
+    
+}
