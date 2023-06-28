@@ -1,12 +1,7 @@
 body{
 
-    color: rgb(110, 6, 6);
-    background-color: rgb(110, 6, 6);
-}
-
-header{
-    color: rgb(253, 10, 10);
-    background-color: rgb(46, 39, 39);
+    color: rgb(250, 111, 111);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
 }
@@ -18,7 +13,7 @@ div{
 
 }
 
-div a{ 
+.nave {
 
     display: contents;
     justify-content: space-between;
